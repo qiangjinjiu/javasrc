@@ -15,6 +15,7 @@ public class Test {
 	//add f4
 	//release 0.1.8
 	//hotfix 0.1.10
+	//hotfix 0.1.11
 	public static void main(String[] args) {
 		InterfaceA.showStatic();
 		new InterfaceAImpl().showDefault();
