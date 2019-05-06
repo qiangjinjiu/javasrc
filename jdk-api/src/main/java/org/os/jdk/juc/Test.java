@@ -11,6 +11,7 @@ package org.os.jdk.juc;
  */
 public class Test {
 
+	//add f4
 	public static void main(String[] args) {
 		InterfaceA.showStatic();
 		new InterfaceAImpl().showDefault();
